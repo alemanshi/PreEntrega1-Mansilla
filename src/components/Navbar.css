@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f9fa;
+  }
+
+  ul.menu {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+  }
+
+  ul.menu li {
+    margin: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color:#5f3711 ;
+    color: #f8f9fa;
+    font-weight: bold;
+  }
